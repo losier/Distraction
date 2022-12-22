@@ -4,8 +4,14 @@
   "description": "A VS code extention which will distract its user from coding :) happy coding",
   "version": "0.0.1",
   "repository": "https://github.com/losier/Notification",
+  "homepage": "https://github.com/losier/Notification#readme",
   "publisher": "losier",
   "license": "SEE LICENSE IN LICENSE",
+  "icon": "https://raw.githubusercontent.com/losier/Notification/master/image/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
