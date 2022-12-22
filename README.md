@@ -4,7 +4,7 @@ This vsCode Extention will try to distract you from coding by showing a pop-up m
 
 ## Features
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[feature X\]\(images/feature.png\)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 

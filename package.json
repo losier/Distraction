@@ -3,6 +3,9 @@
   "displayName": "notification",
   "description": "A VS code extention which will distract its user from coding :) happy coding",
   "version": "0.0.1",
+  "repository": "https://github.com/losier/Notification",
+  "publisher": "losier",
+  "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "vscode": "^1.74.0"
   },
