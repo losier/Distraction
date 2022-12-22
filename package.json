@@ -1,6 +1,6 @@
 {
   "name": "notification",
-  "displayName": "distraction",
+  "displayName": "notification",
   "description": "A VS code extention which will distract its user from coding :) happy coding",
   "version": "0.0.1",
   "engines": {
@@ -10,7 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:notification.helloWorld"
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
